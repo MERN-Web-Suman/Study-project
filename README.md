@@ -1,4 +1,4 @@
-# Study-Priject
+# Study-Project
 
 Welcome to my Repositor Study-Project in this repository ,I've created the Study-Project website using React JS and Tailwind CSS. with Fully responsive app ( All device supported ).
 
