@@ -2,9 +2,7 @@
 
 Welcome to my Repositor Study-Project in this repository ,I've created the Study-Project website using React JS and Tailwind CSS. with Fully responsive app ( All device supported ).
 
-## 🛒 E-Shopping Live Demo
 
-👉 [Click here to view the live project](https://e-shopping-six-delta.vercel.app/)
 
 
 # Features:
